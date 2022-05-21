@@ -1,5 +1,3 @@
-import imp
-from tkinter.messagebox import NO
 from tokenize import Token
 from jose import JWTError, jwt
 from datetime import datetime, timedelta
